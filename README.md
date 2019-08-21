@@ -1,6 +1,6 @@
-# sao-hypernova-preact
+# sao-hypernova-react
 
-> Hypernova with Preacts boilerplate
+> Hypernova with React boilerplate
 
 ## Usage
 
@@ -15,7 +15,7 @@ npm i -g sao
 ### From git
 
 ```bash
-sao ara-framework/create-hypernova-preact my-project
+sao ara-framework/create-hypernova-react my-project
 ```
 
 ## License
