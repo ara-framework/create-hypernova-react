@@ -1,0 +1,24 @@
+{
+  "name": "sao-hypernova-preacts",
+  "version": "0.0.0",
+  "description": "Hypernova with Preact boilerplate",
+  "repository": {
+    "url": "ara-framework/create-hypernova-preact",
+    "type": "git"
+  },
+  "author": "marconi1992 <felipegaiacharly@gmail.com> (github.com/marconi1992)",
+  "license": "MIT",
+  "files": [
+    "saofile.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "superb": "^1.3.0"
+  },
+  "devDependencies": {
+    "sao": "^1.0.0"
+  }
+}
