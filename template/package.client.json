@@ -4,8 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "build": "webpack --mode production",
-    "dev": "webpack --watch --mode development",
-    "start": "node dist/server.js",
+    "dev": "webpack-dev-server --mode development",
     "lint": "eslint ./ --ignore-pattern dist/"
   },
   "dependencies": {
@@ -28,8 +27,8 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
     "eslint-plugin-react-hooks": "^1.7.0",
-    "nodemon-webpack-plugin": "^4.0.7",
     "webpack": "^4.29.5",
-    "webpack-cli": "^3.2.3"
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.8.0"
   }
 }
