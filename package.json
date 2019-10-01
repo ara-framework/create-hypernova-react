@@ -19,6 +19,6 @@
     "superb": "^1.3.0"
   },
   "devDependencies": {
-    "sao": "^1.0.0"
+    "sao": "^1.7.0"
   }
 }
